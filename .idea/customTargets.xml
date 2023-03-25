@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CLionExternalBuildManager">
+    <target id="c3bc7093-dc6c-4d42-85a1-9b38d9bfcc1b" name="aql" defaultType="MAKE">
+      <configuration id="6b5519cc-3553-40f7-8815-87b177c3f0ed" name="aql">
+        <build type="MAKE">
+          <make targetName="aql" />
+        </build>
+        <clean type="MAKE">
+          <make targetName="clean" />
+        </clean>
+      </configuration>
+    </target>
+  </component>
+</project>
